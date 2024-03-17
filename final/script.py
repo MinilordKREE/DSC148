@@ -7,7 +7,7 @@ import joblib
 # Function to load the trained model
 def load_model():
     # Replace 'your_model_path.pkl' with the actual path to your trained model file
-    model = joblib.load('/home/chenxi/data/DSC148/final/model_filename.pkl')
+    model = joblib.load('~/DSC148/final/model_filename.pkl')
     return model
 
 # Setup the app layout
