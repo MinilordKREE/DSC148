@@ -5,6 +5,7 @@ This is repo for showing our project report about predicting the endgame results
 
 The following command run simple UI demo.
 ```bash
+!pip install streamlit
 cd ~/DSC148/final
 streamlit run script.py
 ```
