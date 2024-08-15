@@ -1,4 +1,4 @@
-# DSC148
+#predicting the endgame results
 This is repo for showing our project report about predicting the endgame results (win or lose) based on data from the half of the games (typically first 15 minutes).
 
 ## Quick Start
